@@ -1,0 +1,86 @@
+GIT WORKFLOW DOCUMENTATION
+==========================
+BBIT E Services Project - Git & GitHub Exercise
+Student: [Your Name]
+Date: September 16, 2025
+
+PROJECT OVERVIEW:
+This project demonstrates a complete Git workflow for the BBIT E Services system, 
+which includes user registration with email notifications and user listing functionality.
+
+FILES IN THIS PROJECT:
+1. mail_fixed.php - Clean version of the email registration system
+2. user_list.php - Displays numbered list of users from database (ascending order)  
+3. git_workflow.txt - This documentation file
+4. Original mail.php (with syntax errors - kept for reference)
+
+GIT WORKFLOW STEPS USED:
+========================
+
+STEP 1: PROJECT INITIALIZATION
+- Navigate to project directory
+- Initialize Git repository if not exists: git init
+- Check current status: git status
+
+STEP 2: STAGING FILES
+- Add all project files to staging area: git add .
+- Or add specific files: git add filename.php
+- Check staged files: git status
+
+STEP 3: LOCAL COMMIT
+- Commit changes with descriptive message:
+  git commit -m "Add BBIT E Services user registration and listing system"
+- View commit history: git log --oneline
+
+STEP 4: REMOTE REPOSITORY SETUP
+- Create repository on GitHub
+- Add remote origin: git remote add origin [repository-url]
+- Verify remote: git remote -v
+
+STEP 5: PUSH TO REMOTE
+- Push to remote repository: git push -u origin main
+- For subsequent pushes: git push
+
+ADDITIONAL GIT COMMANDS USED:
+============================
+- git branch: List branches
+- git branch -M main: Rename branch to main
+- git status: Check working directory status
+- git diff: See changes before staging
+- git log: View commit history
+
+BEST PRACTICES FOLLOWED:
+=======================
+1. Descriptive commit messages
+2. Regular commits for logical chunks of work
+3. Proper file organization
+4. Documentation of workflow process
+5. Clean code structure before committing
+
+PROJECT FEATURES IMPLEMENTED:
+=============================
+1. ✅ User registration system with email validation
+2. ✅ PHPMailer integration for welcome emails  
+3. ✅ User list display with numbered ordering (ascending)
+4. ✅ Responsive web design
+5. ✅ Error handling and user feedback
+6. ✅ Database integration (MySQL)
+7. ✅ Clean, documented code structure
+
+TECHNICAL REQUIREMENTS MET:
+==========================
+- Numbered list of users in ascending order ✅
+- Users stored and retrieved from database ✅  
+- Professional styling and layout ✅
+- Form validation and sanitization ✅
+- Email functionality with PHPMailer ✅
+
+SUBMISSION DETAILS:
+==================
+- All files committed to local repository
+- Changes pushed to remote GitHub repository
+- Repository link provided as deliverable
+- Deadline: September 18th, 2025, 11:59 PM
+
+This workflow demonstrates proper version control practices for web development projects,
+ensuring code integrity, collaboration readiness, and professional development standards.
