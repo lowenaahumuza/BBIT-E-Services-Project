@@ -1,9 +1,9 @@
 # BBIT E Services Project
 
 ## Git & GitHub Exercise - Part II
-**Student:** [Your Name]  
-**Course:** BBIT  
-**Institution:** Strathmore University  
+
+**NAME :** AHUMUZA LOWENA 191339 
+**Course:** BBIT E
 **Deadline:** September 18th, 2025, 11:59 PM
 
 ## Project Overview
