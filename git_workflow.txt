@@ -1,7 +1,7 @@
 GIT WORKFLOW DOCUMENTATION
 ==========================
 BBIT E Services Project - Git & GitHub Exercise
-Student: [Your Name]
+Student: AHUMUZA LOWENA 191339
 Date: September 16, 2025
 
 PROJECT OVERVIEW:
@@ -12,7 +12,7 @@ FILES IN THIS PROJECT:
 1. mail_fixed.php - Clean version of the email registration system
 2. user_list.php - Displays numbered list of users from database (ascending order)  
 3. git_workflow.txt - This documentation file
-4. Original mail.php (with syntax errors - kept for reference)
+4. Original mail.php 
 
 GIT WORKFLOW STEPS USED:
 ========================
@@ -82,5 +82,3 @@ SUBMISSION DETAILS:
 - Repository link provided as deliverable
 - Deadline: September 18th, 2025, 11:59 PM
 
-This workflow demonstrates proper version control practices for web development projects,
-ensuring code integrity, collaboration readiness, and professional development standards.
